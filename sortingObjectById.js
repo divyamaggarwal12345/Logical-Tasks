@@ -10,4 +10,4 @@ let obj = [
     ) 
   
    console.log(sorted);
-   
+   //output is in console
